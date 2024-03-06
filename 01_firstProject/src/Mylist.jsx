@@ -3,6 +3,7 @@ import React from "react";
 function Mylist() {
   return (
     <div>
+      <h2>Details:</h2>
       <ol>
         <li>Name</li>
         <li>Class</li>
