@@ -10,8 +10,6 @@ function Chalo() {
         <li>Chennai</li>
         <li>Pune</li>
         <li>Noida</li>
-        <li>Delhi</li>
-        <li>Delhi</li>
       </ol>
     </div>
   );
